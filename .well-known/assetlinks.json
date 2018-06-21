@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hangboardcoach",
+    "sha256_cert_fingerprints":
+    ["DD:15:D7:1B:79:99:A3:AA:0B:D1:7A:73:76:7C:EB:93:BD:AC:CF:FA:D3:FC:00:0A:1D:36:02:E2:A5:5A:F8:AB"]
+  }
+}]
